@@ -30,12 +30,3 @@
 * **N-gram Frequency Matrices**: 🔢 The Unigram, Bigram, Trigram, and Quadgram data are stored in matrices showing how often each word or word combination appears. These are the \\\"brains\\\" of our prediction algorithm! 🧠
 * **Saving for Speed**: 💾 To make the app run faster, we saved each n-gram dataset separately. ⚡
 
-**References 📚:**
-
-* **Natural Language Processing**: 🗣️
-* **N-grams**: 🔗
-* **Markov Model**: ⚙️
-* **Katz Back-off model**: 🦸
-* **Shiny App**: ✨📱 (This will be the interactive web application!)
-* **Slide Deck**: 📊📝 (Your presentation about the project!)
-
