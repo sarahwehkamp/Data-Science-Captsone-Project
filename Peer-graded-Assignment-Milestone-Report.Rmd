@@ -10,7 +10,7 @@ The goal of this capstone project is to develop a predictive text model using a 
 
 ## Loading (Blogs, News, Twitter)
 \`\`\`{r}
-# Set working directory (adjust as needed for your local setup)
+# Set working directory 
 setwd(\\\"D:/Coursera/Coursera-SwiftKey/final/en_US\\\")
 
 # Load the data files
